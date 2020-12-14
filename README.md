@@ -6,6 +6,7 @@ I am a Junior FullStack Developer :hatching_chick: but I studied Urban Planning 
 
 I am happy to share here my first projects in JS, Handlebars, React and MongoDB, most of them done during my IronHack Bootcamp. :space_invader:
 
+Here is my [Linkedin](https://www.linkedin.com/in/mathilde-congiu/)
 <!--
 **mathildeCongiu/mathildeCongiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
