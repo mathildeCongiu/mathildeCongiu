@@ -8,9 +8,6 @@ I am happy to share here my first projects in JS, Handlebars, React and MongoDB,
 
 Here is my [Linkedin](https://www.linkedin.com/in/mathilde-congiu/)
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mathildeCongiu)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathildeCongiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mathildeCongiu/mathildeCongiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
